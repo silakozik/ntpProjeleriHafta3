@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\ntphafta3odev2\ntphafta3odev2\bin\Debug\ntphafta3odev2.exe.config
+C:\Users\SILA\source\repos\ntphafta3odev2\ntphafta3odev2\bin\Debug\ntphafta3odev2.exe
+C:\Users\SILA\source\repos\ntphafta3odev2\ntphafta3odev2\bin\Debug\ntphafta3odev2.pdb
+C:\Users\SILA\source\repos\ntphafta3odev2\ntphafta3odev2\obj\Debug\ntphafta3odev2.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\ntphafta3odev2\ntphafta3odev2\obj\Debug\ntphafta3odev2.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\ntphafta3odev2\ntphafta3odev2\obj\Debug\ntphafta3odev2.exe
+C:\Users\SILA\source\repos\ntphafta3odev2\ntphafta3odev2\obj\Debug\ntphafta3odev2.pdb
